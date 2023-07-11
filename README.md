@@ -8,7 +8,7 @@ This repository contains the second homework project of Adcance Data Mining cour
 The goal of the project is 
   - 1) Application of PageRank algorithms 
  
-  - 2)Reccomendation systems methods
+  - 2) Reccomendation systems methods
 
 ### *Authors*:
 * Aurora Bassani
